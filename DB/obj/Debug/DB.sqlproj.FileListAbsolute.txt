@@ -1,0 +1,6 @@
+C:\Users\aramh\source\repos\MovieInfo\DB\bin\Debug\DB.dacpac
+C:\Users\aramh\source\repos\MovieInfo\DB\bin\Debug\DB.dll
+C:\Users\aramh\source\repos\MovieInfo\DB\bin\Debug\DB.pdb
+C:\Users\aramh\source\repos\MovieInfo\DB\obj\Debug\DB.sqlproj.AssemblyReference.cache
+C:\Users\aramh\source\repos\MovieInfo\DB\obj\Debug\DB.dll
+C:\Users\aramh\source\repos\MovieInfo\DB\obj\Debug\DB.pdb
